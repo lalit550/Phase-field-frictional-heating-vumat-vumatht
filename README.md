@@ -23,10 +23,10 @@ driving force:
 
 | File | Strain-energy split |
 |---|---|
-| `src/VUMAT_VUMATHT_Miehe.f` | Miehe-type spectral split (reference/comparison model) |
-| `src/VUMAT_VUMATHT_Hybrid.f` | Volumetric + principal deviatoric (hybrid) split |
+| `VUMAT_VUMATHT_Miehe.f` | Miehe-type spectral split (reference/comparison model) |
+| `VUMAT_VUMATHT_Hybrid.f` | Volumetric + principal deviatoric (hybrid) split |
 
 Full theory, implementation details, SDV layout, and usage instructions are in
-[`docs/documentation.pdf`](docs/documentation.pdf).
+[`docs/documentation.pdf`](documentation.pdf).
 
 ## Repository structure
