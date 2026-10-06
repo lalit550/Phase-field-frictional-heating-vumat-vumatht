@@ -27,6 +27,6 @@ driving force:
 | `VUMAT_VUMATHT_Hybrid.f` | Volumetric + principal deviatoric (hybrid) split |
 
 Full theory, implementation details, SDV layout, and usage instructions are in
-[`docs/documentation.pdf`](documentation.pdf).
+[`documentation.pdf`](documentation.pdf).
 
 ## Repository structure
