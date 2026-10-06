@@ -46,7 +46,7 @@ Full theory, implementation details, SDV layout, and usage instructions are in
 
 ```bash
 abaqus job=PBX9501_impact.inp user=VUMAT_VUMATHT_Hybrid.f double=both interactive
-``` and must be run on single cpu
+``` 
 
 4. Replace `VUMAT_VUMATHT_Hybrid.f` with `VUMAT_VUMATHT_Miehe.f` to run with the spectral split
    instead.
