@@ -310,7 +310,7 @@ c ===================================================================
             mu_fric = 0.5d0
       
         if (mu_fric .gt. 0.d0 .and. dtloc .gt. 0.d0
-     &      .and. Cv_mech .gt. 0.d0 .and. density(i) .gt. 0.d0) then
+     &      .and. density(i) .gt. 0.d0) then
 
 c ------- crack normal from ∇φ stored in Tgrad (phase-field) -------
              grad1 = 0.d0
