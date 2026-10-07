@@ -376,7 +376,6 @@ c ======================================================================
                deltaT_fric = 0.d0
 			   mu_fric = 0.5 
          if (mu_fric .gt. 0.d0 .and. dtloc .gt. 0.d0
-     &       .and. Cv_mech .gt. 0.d0
      &       .and. density(i) .gt. 0.d0) then
 
             grad1 = Tgrad(locnum,1)
